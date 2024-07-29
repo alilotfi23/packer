@@ -9,6 +9,11 @@ Install dependencies
 ```bash
 packer init .
 ```
+Run packer fmt 
+
+```bash
+packer fmt .
+```
 
 Build the image with the packer build command
 
